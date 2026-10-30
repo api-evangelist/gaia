@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Gaia is a company surfaced as a portfolio company of seedcamp and added to the API Evangelist network as a stub for enrichment. Sector: healthtech. This profile is a lead awaiting the enrichment pipeline.
+Gaia (Gaia Family) is a value-based family-building company that makes fertility treatment financially accessible. Founded by Nader AlSalim after his own multi-year IVF journey, Gaia replaces unpredictable cycle-by-cycle IVF billing with fixed-price, all-inclusive plans and monthly payments, backed by a protection model that offers more tries — or money back — if treatment does not succeed. It partners with 180+ fertility clinics across the US and UK, covering IVF, egg freezing, embryo transfer, hormone and lab testing, and fertility navigation, and also offers fertility benefits to employers. This profile is a company lead (no public API surface) maintained in the API Evangelist network.
 
-Backed by: seedcamp — https://seedcamp.com/company/gaia/
+**Areas:** Company · Health Tech · Fertility · IVF · Fintech · Family Planning · Reproductive Health · Femtech · Insurance
+
+## Gaia on APIs.io
+
+Everything profiled for Gaia is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gaia/](https://apis.io/providers/gaia/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Gaia Domain Security](https://apis.io/security/gaia/gaia-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.gaiafamily.com/)
+- [Pricing](https://www.gaiafamily.com/en-us/get-ivf)
+- [Sign up](https://www.gaiafamily.com/en-us/sign-up)
+- [Support](https://www.gaiafamily.com/en-us/about/contact)
+- [Blog](https://www.gaiafamily.com/en-us/learn)
+- [Terms of service](https://www.gaiafamily.com/en-us/legal/terms-of-use)
+- [Privacy policy](https://www.gaiafamily.com/en-us/legal/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 14.5** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 44.7 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.3** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gaia/](https://apis.io/providers/gaia/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Gaia: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gaia/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
